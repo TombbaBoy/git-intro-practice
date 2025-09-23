@@ -22,3 +22,5 @@
    23  git remote -v
    24  git push -u origin main
    26  history | grep git >> notes.md   
+git status
+git log --oneline
